@@ -1,0 +1,12 @@
+{
+  "name": "frenchnumbers",
+  "version": "1.0.0",
+  "description": "Convert an Integer list to French written numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "node ./test.js"
+  },
+  "author": "Alex K",
+  "license": "MIT"
+}
